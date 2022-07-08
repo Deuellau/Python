@@ -1,3 +1,3 @@
 # Python
 
-Python Notes!
+Compilation of some python codes.
